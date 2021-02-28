@@ -2,7 +2,7 @@
 
 # Bootcamp HTML Web Developer
 
-## Desenvolvendo o jogo clássico da cobrinha utilizando HTML, CSS e JavaScript.
+## Desenvolvendo o jogo clássico da cobrinha
 
 ### Descrição:
 
